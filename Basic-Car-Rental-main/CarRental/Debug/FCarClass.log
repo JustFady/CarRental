@@ -1,0 +1,8 @@
+﻿  Source.cpp
+D:\Desktop\FCarClass\Source.cpp(195,20): warning C4018: '<': signed/unsigned mismatch
+D:\Desktop\FCarClass\Source.cpp(233,21): warning C4018: '<': signed/unsigned mismatch
+D:\Desktop\FCarClass\Source.cpp(254,24): warning C4018: '>=': signed/unsigned mismatch
+D:\Desktop\FCarClass\Source.cpp(277,24): warning C4018: '>=': signed/unsigned mismatch
+D:\Desktop\FCarClass\Source.cpp(357,20): warning C4018: '<': signed/unsigned mismatch
+D:\Desktop\FCarClass\Source.cpp(374,20): warning C4018: '<': signed/unsigned mismatch
+  FCarClass.vcxproj -> D:\Desktop\FCarClass\Debug\FCarClass.exe
