@@ -1,9 +1,9 @@
 /***********************************************************************************
  *  Project: Lab 6
  *  File: Car.cpp
- *  Authors: Fady H Youssef 
+ *  Authors: Fady H Youssef
  *  Date: March 05, 2021
- ************************************************************************************/
+ ***************************************************************/
 #include "Car.h"
 
 using namespace std;
@@ -161,7 +161,7 @@ bool Car::equals(const Car& c)
 }
 /****************************************************************
 * Function: operator<<
-* Description: Overloaded the stream out operator to display data 
+* Description: Overloaded the stream out operator to display data
 * Input: output - the ostream output being modified
 		 Car - class car being display
 * output: the ostream being modified
